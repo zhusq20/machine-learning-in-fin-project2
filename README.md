@@ -1,5 +1,3 @@
-# Autoencoder-Asset-Pricing-Models
-
 ## Set Up
 
 ```bash
